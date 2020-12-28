@@ -1,2 +1,2 @@
 # draw-digit-classifier
-You draw a digit. Code classifies it. That's it. 
+You draw a digit. Code classifies it. That's it. Made from scratch. First independent ML project. 
